@@ -6,83 +6,73 @@
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Candy Crush:
+  - Medium: Mobile Game
+  - Explanation: Candy crush is a simple match-3 puzzle game where you swap candies to match three or more of the same color. The game has similiar gameplay as candy crush.
+- Yoshi's Cookie:
+  - Medium: Game
+  - Explanation: The game will have similar gameplay to Yoshi's cookie where you have to match rows
 
 ## Core Gameplay Mechanics (Brief)
 
-*Give a very high-level description of any core gameplay mechanics*
-
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- Click on tiles to swap between two tiles
+- Having a row or column that has a true boolean will give you points and also delete the tiles
+- Each level has a goal that you have to reach to advance to the next stage
+- Each level gets more difficult with new boolean logic
+- If a player doesn't complete the level in a certain amount of time then they fail and have to retry
 
 # Learning Aspects
 
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+Introduction to boolean expressions
 
 ## Target Audiences
 
-*Who are your learners?*
+* Students studying computer science or programming at a beginner level
+* Anyone seeking to understand basic programming concepts
 
 ## Target Contexts
 
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+* This would be used in introductory computer science classes teaching boolean expressions
 
 ## Learning Objectives
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- By the end of the lesson, players will be able to identify true or false boolean expressions
+- By the end of the lesson, players will be able to apply boolean logic to solve simple programming problems
+- By the end of the lesson, players will be able to construct boolean expressions involving logical operators AND, OR, NOT, and XOR
 
 ## Prerequisite Knowledge
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- Players should be familiar with boolean data type
+- Players should know simple logic operators (AND, OR, NOT)
+- Players should have a basic understanding of boolean algebra
 
 ## Assessment Measures
 
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
+A short pre-test and matching post-test should be designed to assess student learning
 
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
+- Given a boolean expression, identify if the expression evaluates to true or false
+- Construct a boolean expression using certain logical operators
 
 # What sets this project apart?
 
-*Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
-
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
+- Unlike most games, this one is designed to specifically teach fundamental programming concepts
+- Players interact with boolean expressions through gameplay, reinforcing their understanding
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+This is a one person game. The player clicks on two tiles to swap them
 
 ## Player Modes
 
-*Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
-
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
+- Single-player: You repeatedly advance through levels until you reach the end
 
 # Gameplay Objectives
 
