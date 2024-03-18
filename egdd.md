@@ -76,31 +76,36 @@ This is a one person game. The player clicks on two tiles to swap them
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+- Create true boolean expressions:
+    - Description: Complete level-specific goals by creating rows or columns of true boolean expressions. Score more points by getting more rows/columns.
+    - Alignment: Reinforces understanding of boolean expressions and operators.
+- Unlock new and more challenging levels:
+    - Description: Progress through increasingly challenging levels, introducing new boolean logic.
+    - Alignment: Provides opportunities to apply and expand knowledge of boolean concepts.
+
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+- Players swap tiles to create rows or columns of true boolean expressions.
+- Each level presents specific goals to achieve within a time limit.
 
 # Rules
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
+- Players can swap adjacent tiles to create matches.
+- Complete a level by getting the desired score within specified constraints like time limits or move/swap limits 
+- Different tiles represent true, false, and logical operators
 
 # Objects/Entities
-
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+- Tiles
+- Animations/Particles
+- Music/SFX
+- Navigation Menus
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
+- Swap Tiles: Players swap tiles to create rows or columns of true boolean expressions, with different tiles representing true, false, and logical operators. An animation will occur on swipe and effects will pop up when the row/column is complete.
+- Level Up: Each level presents specific goals to achieve using boolean expressions, introducing new logic and challenges. Each level is randomly generated but offers new challenges such as different boolean operators. There will be more rows and columns as the player progresses
+- Time Limit: Time limit adds urgency, encouraging quick thinking and decision-making. 
 
     
 ## Feedback
@@ -113,15 +118,19 @@ This is a one person game. The player clicks on two tiles to swap them
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+- An animamtion of a cursor swapping two tiles to show how the swap tiles
+- Tutorial that shows how to make completed row/col on a small board (3x3)
+- Highlight the on-screen timer during the tutorial mode
+- Visual and audio cues indicate successful matches and progress towards level goals.
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+- Introduce a small interactice tutorial when a new logical operator is added to the level.
+- Possible tutorial menu to relearn boolean concepts
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+Boolean Bonanza challenges players with progressively difficult puzzles, immersing them in the world of boolean expressions. The graphics are fun similar to Candy Crush.
 
 ## Storyboarding
 
@@ -131,38 +140,36 @@ This is a one person game. The player clicks on two tiles to swap them
 
 ## Aethestics
 
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+- Vibrant visuals with a playful, educational atmosphere.
+- Engaging sound effects and music enhancing the gaming experience.
 
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
+  - No "characters"
+  - Tiles representing true, false, and logical operators
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+  - Playful cube textures for the tile
+  - Fun colors similar to Candy Crush
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+  - Menu graphics
+  - Level Map graphics 
+  - Background art during levels
 
 
 ## Audio
 
-
-*Game region/phase/time are ways of designating a particularly important place in the game.*
-
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+  - In Game Music: Ambient music to accompany gameplay, increases pace as time runs out
+  - Main menu music: Fun, 8-bit style music when player is in main menu/choosing a level
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - Swapping Tiles: the sound of tiles rubbing against each other
+  - Scoring Points: coin collection sound
+  - Completed Rows/Column: Mini Checkmark noise (like the duolingo sound)
+  - Clicking/Hovering over Menu Items: Short click noises for auditory feedback
 
 
 # Metadata
