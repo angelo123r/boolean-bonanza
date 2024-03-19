@@ -110,9 +110,13 @@ This is a one person game. The player clicks on two tiles to swap them
     
 ## Feedback
 
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
+Short Term Feedback:
+- "Ding" noises on correct swipes
+- Score Indicator (text) showcase how well they are doing in the game
 
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+Long Term Feedback:
+- Leveling System Will Indicate Long Term Progress
+- Visuals that indicate What Level You are (Progress Bar)
 
 # Story and Gameplay
 
