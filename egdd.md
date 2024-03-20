@@ -1,8 +1,8 @@
-# Game Name
+# Boolean Bonanza
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+Picture a game where players dive into the exciting world of programming through interactive puzzles, focusing specifically on mastering boolean expressions, empowering learners with essential coding skills in a fun and engaging way!
 
 ## Influences (Brief)
 
@@ -138,7 +138,15 @@ Boolean Bonanza challenges players with progressively difficult puzzles, immersi
 
 ## Storyboarding
 
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+[![image1](/storyboard/story-img1.png "image1")](https://docs.google.com/presentation/d/1ByYG8yYKBdqLnavDl0nlWLJHGGYMCE1L/edit?usp=sharing&ouid=112997788902853184335&rtpof=true&sd=true)
+
+[![image2](/storyboard/story-img2.png "image2")](https://docs.google.com/presentation/d/1ByYG8yYKBdqLnavDl0nlWLJHGGYMCE1L/edit?usp=sharing&ouid=112997788902853184335&rtpof=true&sd=true)
+
+[![image3](/storyboard/story-img3.png "image3")](https://docs.google.com/presentation/d/1ByYG8yYKBdqLnavDl0nlWLJHGGYMCE1L/edit?usp=sharing&ouid=112997788902853184335&rtpof=true&sd=true)
+
+[![image4](/storyboard/story-img4.png "image4")](https://docs.google.com/presentation/d/1ByYG8yYKBdqLnavDl0nlWLJHGGYMCE1L/edit?usp=sharing&ouid=112997788902853184335&rtpof=true&sd=true)
+
+[![image5](/storyboard/story-img5.png "image5")](https://docs.google.com/presentation/d/1ByYG8yYKBdqLnavDl0nlWLJHGGYMCE1L/edit?usp=sharing&ouid=112997788902853184335&rtpof=true&sd=true)
 
 # Assets Needed
 
